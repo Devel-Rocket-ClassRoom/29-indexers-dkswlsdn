@@ -11,7 +11,7 @@ public class Car
     {
         _cars = new string[capacity];
 
-        Length++;
+        Length += capacity;
     }
 
 
